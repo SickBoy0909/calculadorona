@@ -317,6 +317,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
+            this.BackgroundImage = global::Calculadora.Properties.Resources.inline_image_preview;
             this.ClientSize = new System.Drawing.Size(199, 301);
             this.Controls.Add(this.PORCENTAJE);
             this.Controls.Add(this.PANTALLA);
